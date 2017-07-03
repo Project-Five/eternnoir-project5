@@ -7,6 +7,8 @@ One week one project.
 
 ## Candidate ideas
 
+[ ] drone slack file upload plubin
+
 [ ] Comic downloader.
 
 [x] Golang batch framework. Week1
