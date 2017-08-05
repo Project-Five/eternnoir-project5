@@ -12,3 +12,5 @@ One week one project.
 [ ] Comic downloader.
 
 [x] Golang batch framework. Week1
+
+[x] Easy Create telegram sticker. Week?
